@@ -1,0 +1,75 @@
+body{
+    color:#231964;
+}
+
+.nav-bar a{
+    color:#231964;
+}
+
+.nav-bar a:hover{
+    color:orange;
+
+}
+
+.para{
+    text-align: justify;
+}
+
+.highlet{
+    color:orange;
+}
+
+.header-img {
+    background:  linear-gradient(to top, #1c212ebe, #1c212ebe), url(https://image.shutterstock.com/shutterstock/photos/76644511/display_1500/stock-photo-big-group-of-business-people-isolated-over-white-background-76644511.jpg)no-repeat center;
+    height:50vh;
+    color:rgb(237, 238, 239);
+}
+
+
+
+.cont-img{
+    background:  linear-gradient(to top, #1c212ebe, #1c212ebe), url(https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnVzaW5lc3MlMjBzdWNjZXNzfGVufDB8fDB8fA%3D%3D&w=1000&q=80) no-repeat center;
+    height: auto;
+    color:aliceblue;
+    
+}
+
+
+.like-icon{
+    background-color: orange;
+    padding:4px 4px;
+    border-radius: 50%;
+}
+
+.dollar-icon{
+    background-color: orange;
+    padding:4px 4px;
+    border-radius: 50%;
+
+    
+}
+
+.support-icon{
+    background-color: orange;
+    padding:4px 4px;
+    border-radius: 50%;
+}
+
+
+.process-matter{
+    color: orange;
+    padding-left: 20px;
+}
+
+.expert{
+    background-color: rgb(230, 232, 228);
+}
+
+footer{
+    color:whitesmoke;
+    
+}
+
+.about{
+    background-color: #233570;
+}
